@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.706cd541.css",
+    "main.js": "/static/js/main.d832d00d.js",
+    "static/js/453.46dc3e92.chunk.js": "/static/js/453.46dc3e92.chunk.js",
+    "static/media/Blood_Bank.png": "/static/media/Blood_Bank.a52d41839926d333367a.png",
+    "static/media/My_Resume.pdf": "/static/media/My_Resume.f0a8fc0812d4d8c50c50.pdf",
+    "static/media/food1.png": "/static/media/food1.51a66b1d4fa4fd2b2498.png",
+    "static/media/Contact.jpg": "/static/media/Contact.875b2b46297b4bd8965f.jpg",
+    "static/media/Profile.jpg": "/static/media/Profile.083778f0893e161d011e.jpg",
+    "index.html": "/index.html",
+    "main.706cd541.css.map": "/static/css/main.706cd541.css.map",
+    "main.d832d00d.js.map": "/static/js/main.d832d00d.js.map",
+    "453.46dc3e92.chunk.js.map": "/static/js/453.46dc3e92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706cd541.css",
+    "static/js/main.d832d00d.js"
+  ]
+}
